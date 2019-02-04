@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 블로그의 용도
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+이 블로그의 용도에 대해 기술해보고자 한다.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+금일부로 Udacity React Nanodegree를 수강하게 되었다. 이 블로그는 나노디그리 수강 기간동안 해당 코스에서 배운 내용들을 복습 + 보충하는 용도로 사용되며, 이 외에 웹 개발과 관련된 개인 공부자료들을 모아두는 용도로 쓰일 예정이다.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+포스트는 처음엔 정리 없이 한가지 내용당 파일 하나의 형태로 게시될 예정이며, 이후 태깅, 메뉴 나누기 등을 이용해 카테고리화 할 계획이다.
